@@ -1,0 +1,22 @@
+Mozilla developer network for resources and documentation of HTML, CSS and JavaScript
+
+<b> </b> bold tag
+Shift + Alt + F -> Auto format 
+Cntrl + Shift + P -> Command pallette
+alt attribute in image will be read by screen reader
+<!-- commenting bracket --> 
+Block element vs. inline element
+1. Block
+    a. Paragraph
+    b. List
+    c. div
+    d. headings
+2.Inline
+    a. Anchor tags
+    b. Images
+    c. Span
+
+<div> : the content division element
+    it is a block element
+<span> generic container
+    it is an inline element
