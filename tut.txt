@@ -20,3 +20,27 @@ Block element vs. inline element
     it is a block element
 <span> generic container
     it is an inline element
+<hr> no closing tags
+    the thematic break element
+<br> no closing tags
+    the line break element
+<sup> superscipt elementt
+<sub> subscript element
+
+Semantic Markup: Adding meaning to the HTML element
+    They don't add new features or any new functionality expect a meaning to the Markup
+    a. Main - Represents the Dominant content of the <body> of the document.
+        It is unique to the page and exclude element such as navigation bars, side bars, etc.
+    b. nav - Represents the things that provide the navigation links to the page
+        Ex- other parts of the same page or other sources
+    c. section - Generic section element
+        Represents a standalone section which does not relate to any other semantic element
+    d. article - represents a self-contained composition in the document
+        anything that can be independently distributable or reusable.
+    e. aside - represents a part which is indirectly related to the main content
+    f. header - represents a introductory content, navigational content, 
+    g. footer - represents a footer to the nearest sectioning content
+    h. time - inline element that represents a time
+    i. figure - contains an image with caption
+    j. abbr
+    h. data
